@@ -1,0 +1,162 @@
+ Aerospace Engineering Syllabus
+
+
+Title
+
+Cat.
+CALCULUS I – FUNCTIONS OF ONE VARIABLE	SMA
+PHYSICS I	SPH
+CONCEPTS IN ENGINEERING DESIGN	BET
+THERMODYNAMICS	BET
+INDRODUCTION TO AEROSPACE ENGG	PMT
+WORKSHOP I	BES
+PHYSICS LAB. I	SPH
+CHEMISTRY LAB I	SCY
+TOTAL
+
+SEMESTER II
+No.
+
+Title
+
+MA1020
+
+CALCULUS II – FUNCTIONS OF SEVERAL VARIABLES
+PH1020
+
+PHYSICS II
+CS1100
+
+COMPUTATIONAL ENGG.
+AM1100
+
+ENGINEERING MECHANICS
+ME1120
+
+ENGG. DRAWING
+WS1020
+
+WORKSHOP II
+PH1040
+
+PHYSICS LAB. II
+CY1001
+
+CHEMISTRY: STRUCTURE, BONDING & REACTIVITY
+TOTAL
+
+No.	
+Title
+
+ID1200	ECOLOGY AND ENVIRONMENT
+BT1010	LIFE SCIENCES
+HS	Humanities Elective I
+MA2010 / MA2020	COMPLEX VARIABLES AND TRANSFORM TECHNIQUES /
+DIFFERENTIAL EQUATIONS
+
+EE1100	BASIC ELEC. ENGG.
+AS1020	FLUID MECHANICS
+AS2010	BASIC STRENGTH OF MATERIALS
+AS2100	INTRO. TO AERO LAB
+TOTAL
+
+SEMESTER IV
+No.	
+Title
+
+HS	Humanities Elective II
+MA2010 / MA2020	COMPLEX VARIABLES AND TRANSFORM TECHNIQUES /
+DIFFERENTIAL EQUATIONS
+
+AS2080	VIBRATIONS
+AS2030	GAS DYNAMICS
+AS2050	AERODYNAMICS
+AS2070	AEROSPACE STRUCTURAL MECHANICS
+AS2510	LOW SPEED LAB
+TOTAL
+
+No.	
+Title
+
+Minor Elective II (Core)
+AS2040	FLIGHT DYNAMICS I
+AS2060	EXPERIMENTAL
+AERODYNAMICS
+
+AS3270	PROPULSION
+MA	MATHS ELECTIVE
+AS3020	AEROSPACE STRUCTURES
+AS2520	PROPULSION LAB
+AS3510	AERO LAB 1
+TOTAL
+
+SEMESTER VI
+
+No.
+
+Title
+
+Minor Elective II (Core)
+Elective I
+Elective II
+Elective III
+AS3010
+
+INTRODUCTION TO SPACE TECHNOLOGY
+AS3050
+
+FLIGHT DYNAMICS II
+AS5210
+
+AERODYNAMIC DESIGN (Self Study)
+AS3520
+
+AERO LAB II
+AS4020
+
+INDUSTRIAL LECTURE (P/F)
+
+TOTAL
+
+AS3500
+
+INDUSTRIAL TRAINING (Summer)
+No.
+
+Title
+
+HS	Professional Ethics (P/F)/
+HS Elective III
+Minor Elective III
+Free Elective I
+Elective IV
+Elective V
+Elective VI
+AS4590
+
+PROJECT I
+TOTAL
+
+SEMESTER VIII
+No.
+
+Title
+
+HS	Professional Ethics (P/F)/
+HS Elective III
+Free Elective II
+AS4600
+
+PROJECT II
+TOTAL
+
+Total:22+24+25+24+25+26+2+18+14=180
+
+Notes:
+
+Maths Electives should include MA 2010 Complex Variables and Transform Techniques, MA2020 Special Functions and Partial Differential Equations and one other Maths course chosen in consultation with Faculty Advisor.
+Electives I to VI from Aero Elective List or other equivalents from other departments with the consent of the Faculty Adviser.
+If required by the student area of B.Tech project, a maximum of 2 electives relevant to the project area may be taken for PMT credit eventhough they are not in Aero electives or equivalent thereof.
+Students may choose to take up to two of elective I through VI on P/F basis.
+Grade for projects assigned in VIII semester. Project is optional. It will be decided based only on the discussion between the student and the faculty guide and upon their mutual concurrence. There will be no CGPA cutoff for project. Those who do not do project shall substitute it with 3 PMT electives including maximum of two from any other Engineering/Physics/Chemistry departments.
+Free Electives I & II category will be indicated in the grade card according to the course chosen by the student from own department or from other departments such as MA, HS & PH.

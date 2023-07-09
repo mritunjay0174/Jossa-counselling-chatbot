@@ -1,0 +1,47 @@
+B Tech Industrial Engineering Syllabus
+BTech Industrial Engineering syllabus teaches about how different machinery and tools work in tandem to formulate the same ideology and concepts and employ those resources and ideas to better the existing prospects of industrial output. The syllabus for B Tech Industrial Engineering is:
+Semester 1	Semester 2
+Linear Algebra and Calculus	Vector Calculus, Differential Equations and Transforms
+Engineering Physics B	Engineering Physics B
+Engineering Chemistry	Engineering Chemistry
+Engineering Mechanics	Engineering Mechanics
+Engineering Graphics	Engineering Graphics
+Basics of Civil & Mechanical Engineering	Basics of Civil & Mechanical Engineering
+Basics of Electrical & Electronics Engineering	Basics of Electrical & Electronics Engineering
+Life Skills	Professional Communication
+Engineering Physics Lab	Programming in C
+Engineering Chemistry Lab	Engineering Physics Lab
+Civil & Mechanical Workshop	Engineering Chemistry Lab
+Electrical & Electronics Workshop	Civil & Mechanical Workshop
+-	Electrical & Electronics Workshop
+Semester 3	Semester 4
+Partial Dfferential Equation and Complex Analysis	Introduction to Stochastic Models
+Theory of Machines and Design	Work System Design
+Fluid Mechanics and Hydraulic Machines	Operations Management
+Materials and Manufacturing Processes	Machine tools and Digital Manufacturing
+Design and Engineering	Design and Engineering
+Professional Ethics	Professional Ethics
+Sustainable Engineering	Constitution of India
+Fluid Mechanics and Hydraulic Machines Lab	Work System Design Lab
+Material Testing Lab	Machine Tools Lab
+Remedial/Minor/Honours Course	Remedial/Minor/Honours Course
+Semester 5	Semester 6
+Supply Chain and Logistics Management	System Modelling and Simulation
+Operations Research	Advanced Operations Research
+Thermal Engineering	Data Analysis
+Object Oriented Programming	Program Elective I
+Industrial Economics and Foreign Trade	Industrial Economics and Foreign Trade
+Management for Engineers	Management for Engineers
+Disaster Management	Comprehensive Course Work
+Thermal Engineering Lab	Simulation Lab
+Object Oriented Programming Lab	Data Analysis and Optimisation Lab
+Remedial/Minor/Honours Course	Remedial/Minor/Honours Course
+Semester 7	Semester 8
+Quality Engineering	Applied Ergonomics
+Program Elective II	Program Elective III
+Open Elective	Program Elective IV
+Industrial Safety Engineering	Program Elective V
+Quality Control Lab	Comprehensive Viva Voce
+Seminar	Project Phase 2
+Project Phase 1	Remedial/Minor/Honours Course
+Remedial/Minor/Honours Course

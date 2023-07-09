@@ -1,0 +1,534 @@
+B-Tech (Mechanical Engineering) Revised Curriculum - 2016
+SEMESTER I L T P C SEMESTER II L T P C
+CE111 Engineering Drawing 1 0 3 5 1 CB102
+and
+CE102
+Biology and Environmental Studies 3 0 0 6
+EE101 Electrical Sciences 3 1 0 8 2 CH103 Introductory Chemistry 3 1 0 8
+HS103 Communicative English for Engineers 2 0.5 1 6 3 CH110 Chemistry Laboratory 0 0 3 3
+MA101 Mathematics – I 3 1 0 8 4 CS102 Programming and Data Structures 3 0 0 6
+ME110 Workshop – I 0 0 3 3 5 CS112 Programming and Data Structures Laboratory 0 0 3 3
+PH103 Physics – I 3 1 0 8 6 EE103 Basic Electronics Laboratory 0 0 3 3
+PH110 Physics Laboratory 0 0 3 3 7 MA102 Mathematics-II 3 1 0 8
+8 ME102 Engineering Mechanics 3 1 0 8
+TOTAL 12 3.5 10 41 TOTAL 15 3 9 45
+SEMESTER III SEMESTER IV
+MA201 Mathematics – III 3 1 0 8 1 HS2XX HSS Elective – II 3 0 0 6
+HS2XX HSS Elective – I 3 0 0 6 2 XX2XX Open Elective I 3 0 0 6
+ME207 Dynamics 3 0 0 6 3 ME208 Kinematics and Dynamics of Mechanisms 3 0 2 8
+ME209 Thermodynamics 3 1 0 8 4 ME214 Mechanics of Solids 3 0 0 6
+ME231 Engineering Materials 3 0 2 8 5 ME216 Fluid Mechanics 3 0 2 8
+6 ME292 Measurement Laboratory 0 0 2 2
+TOTAL 15 2 2 36 TOTAL 15 0 6 36
+SEMESTER V SEMESTER VI
+XX3XX Open Elective – I 3 0 0 6 1 HS3XX HSS Elective – III 3 0 0 6
+ME313 Design of Machine Elements 3 0 3 9 2 ME312 System Dynamics and Control 3 0 2 8
+ME315 Heat and Mass Transfer 3 0 2 8 3 ME314 Applied Thermodynamics 3 0 2 8
+ME331 Manufacturing Technology I 3 0 0 6 4 ME332 Manufacturing Technology II 3 0 3 9
+ME393 Engineering Software Laboratory 1 0 3 5 5 ME396 Engineering Practicum-II 0 0 3 3
+ME395 Engineering Practicum-I 0 0 3 3
+TOTAL 13 0 11 37 TOTAL 12 0 10 34
+SEMESTER VII SEMESTER VIII
+XX4XX Open Elective – III 3 0 0 6
+ME431 Industrial Engineering and Operations Research 3 0 0 6 1 MEXXX Departmental Elective-III 3 0 0 6
+MEXXX Departmental Elective-I 3 0 0 6 2 MEXXX Departmental Elective-IV 3 0 0 6
+MEXXX Departmental Elective – II 3 0 0 6 3 ME496 Project - II 0 0 18 18
+ME495 Project-I 0 0 6 6
+TOTAL 12 0 6 30 TOTAL 6 0 18 30
+Grand Total 100 8.5 72 289
+Page 1
+ME101 Workshop L-T-P-C: 0-0-3-3
+Pre-requisites: Nil
+Syllabus:
+Sheet Metal Working:
+Sheet material: GI sheets, aluminium, tin plate, copper, brass etc; Tools: steel rule, vernier calipers, micrometer, sheet metal gauge, scriber, divider, punches, chisels,
+hammers, snips, pliers, stakes etc.; operations: scribing, bending, shearing, punching
+etc; Product development: hexagonal box with cap, funnel etc.
+Pattern Making and Foundry Practice:
+Pattern material: wood, cast iron, brass, aluminium, waxes etc.; Types of patterns: split, single piece, match plate etc; Tools: cope, drag, core, core prints, shovel, riddle, rammer, trowel, slick, lifter, sprue pin, bellow, mallet, vent rod, furnace etc. Moulding
+sands: green sand, dry sand, loam sand, facing sand etc., Sand casting: Sand
+preparation, mould making, melting, pouring, and cleaning. Joining:
+Classifications of joining processes; Introduction to Arc welding processes; power
+source; electrodes; edge preparation by using tools bench vice, chisels, flat file, square
+file, half round file, round file, knife edge file, scrapers, hacksaws, try squares; cleaning
+of job, Job: lap and butt joints using manual arc welding. Machining centre:
+Introduction to different machine tools; Working principle of lathe, milling, drilling etc.;
+Setting and preparation of job using lathe and milling; Performing different operations
+namely, straight turning, taper turning, knurling, thread cutting etc.; Introduction to
+dividing head, indexing, Performing operation in milling using indexing mechanism. CNC centre:
+Introduction to CNC machines; Fundamentals of CNC programming using G and Mcode; setting and operations of job using CNC lathe and milling, tool reference, work
+reference, tool offset, tool radius compensation. Text and Reference books:
+1. Hajra Choudhury, HazraChoudhary and Nirjhar Roy, 2007, Elements of Workshop
+Technology, vol. I,Mediapromoters and Publishers Pvt. Ltd. 2. W A J Chapman, Workshop Technology, 1998, Part -1, 1st South Asian Edition, Viva
+Book Pvt Ltd. 3. P.N. Rao, 2009, Manufacturing Technology, Vol.1, 3rd Ed., Tata McGraw Hill Publishing
+Company. 4. B.S. Pabla, M.Adithan, 2012, CNC machines
+ME102 Engineering Mechanics L-T-P-C: 3-1-0-8
+Course Objectives: The objective of this first course in mechanics is to enable
+engineering students to analyze basic mechanics problems and apply vector based
+approach to solve them. Expected learning outcomes: Following learning outcomes are expected after going
+through this course. a) Learn and apply general mathematical and computer skills to solve basic
+mechanics problems.
+b) Apply the vector based approach to solve mechanics problems.
+Pre-requisite: Nil
+Syllabus:
+1. Rigid body statics: Equivalent force system. Equations of equilibrium, Free body
+diagram, Reaction, Static indeterminacy. 2. Structures: 2D truss, Method of joints, Method of section. Beam, Frame, types of
+loading and supports, axial force, Bending moment, Shear force and Torque
+Diagrams for a member:
+3. Friction: Dry friction (static and kinetic), wedge friction, disk friction (thrust
+bearing), belt friction, square threaded screw, journal bearings, Wheel friction, Rolling resistance. 4. Centroid and Moment of Inertia
+5. Virtual work and Energy method: Virtual Displacement, principle of virtual work,
+mechanical efficiency, work of a force/couple (springs etc.), Potential Energy and
+equilibrium, stability. 6. Introduction to stress and strain: Definition of Stress, Normal and shear Stress.
+Relation between stress and strain, Cauchy formula. 7. Stress in an axially loaded member, 8. Stresses due to pure bending, 9. Complementary shear stress,
+10.Stresses due to torsion in axi-symmetric sections :
+11.Two dimension state of stress, Mohr’s circle representation, Principal stresses
+and strains. Texts/References:
+1. I. H. Shames, Engineering Mechanics: Statics and dynamics, 4th Ed, PHI, 2002. 2. F. P. Beer and E. R. Johnston, Vector Mechanics for Engineers, Vol I - Statics, 3rd Ed, Tata
+McGraw Hill, 2000. 3. J. L. Meriam and L. G. Kraige, Engineering Mechanics, Vol I - Statics, 5th Ed, John Wiley, 2002. 4. E.P. Popov, Engineering Mechanics of Solids, 2
+nd Ed, PHI, 1998. 5. F. P. Beer and E. R. Johnston, J.T. Dewolf, and D.F. Mazurek, Mechanics of Materials, 6
+th Ed, McGraw Hill Education (India) Pvt. Ltd., 2012.
+ME207 Dynamics L-T-P-C: 3-0-0-6
+Course Objectives: The objective of this course is to introduce students to the
+fundamental principles and methods of dynamics. Students will be introduced to specific
+problems on modelling of engineering systems using principles of dynamics. Some of
+the exercise problems will be solved using computer based programs.
+Expected learning outcomes: Following learning outcomes are expected after going
+through this course. a) Learn and apply general mathematical and computer skills to solve dynamics
+problems.
+b) Application of Newton’s laws of motion, work energy principles, and momentumconservation principles in various coordinate systems for single particles, system
+of particles, and rigid bodies.
+c) Introductory understanding of vibration of simple mechanical systems.
+Pre-requisites: Nil
+Syllabus:
+1. Kinematics of Particles: Rectilinear motion, curvilinear motion rectangular, normal-tangential, polar, cylindrical, spherical (coordinates), relative and
+constrained motion, space curvilinear motion. 2. Kinetics of Particles: Force, mass and acceleration, work and energy, impulse
+and momentum, impact. Introduction to central force motion. 3. Kinetics of a system of particles,
+4. Center of Gravity and Moment of Inertia: First and second moment of mass,
+radius of gyration, parallel axis theorem, product of inertia, rotation of axes and
+principal moment of inertia, Thin plates, composite bodies.
+5. potential energy, impulse-momentum and associated conservation principles, Euler equations of motion and its application. 6. Introduction to Variational principles, Lagrange’s equation, Hamilton’s principle. 7. Equation of motion in Eulerian angles.
+8. Vibration of a single spring-mass-dashpot system: Free and forced vibration, damping resonance, magnification factor, amplitude and phase plot for a
+harmonically excited single degree of freedom system. Texts/References
+1. I. H. Shames, Engineering Mechanics: Statics and dynamics, 4th Ed, PHI, 2002. 2. F. P. Beer and E. R. Johnston, Vector Mechanics for Engineers, Vol II - Dynamics, 3rd Ed, Tata
+McGraw Hill, 2000. 3. J. L. Meriam and L. G. Kraige, Engineering Mechanics, Vol II - Dynamics, 5th Ed, John Wiley, 2002. 4. L. Meirovitch, Methods of analytical dynamics, Dover Publication, 2007. 5. planner motion and general three-dimensional motion, work energy, power, Kinematics and Kinetics of Rigid Bodies: Translation, fixed axis rotation, general
+ME209 Thermodynamics L-T-P-C: 3-1- 0-8
+Pre-requisites: Nil
+Course objectives:
+a) To develop the basic understanding of classical thermodynamics and principles of
+engineering applications
+b) To develop skills to formulate and analyze thermodynamic problems involving control
+volumes and control masses
+Proposed Course Content
+Thermodynamic systems: Macroscopic and microscopic view, system and control volume, states and properties, processes; Properties of pure substances and steam: Phase changes,
+steam tables and Mollier diagram, Heat and work; Zeroth law; First law: for systems and control
+volumes, enthalpy, Applications of first law: closed and open systems, SSSF, USUF, Reactive
+systems and Combustion; Second law: Carnot cycle, entropy, corollaries of the second law;
+Applications of second law: closed and open systems, vapor compression and Rankine cycle;
+irreversibility , availability, exergy; Thermodynamic relations; Properties of mixtures of ideal
+gases; Third law of thermodynamics; Thermodynamic cycles - Otto, Diesel, dual and Joule,
+Introduction to psychrometry
+Text and Reference Books:
+1. C Borgnakke& R E Sonntag, Fundamentals of Thermodynamics7e, John Wiley, 2009. 2. Y. A. Cengel and M. A. Boles, Thermodynamics, An Engineering Approach, 4e, Tata McGraw Hill, 2003. 3. G F C Rogers and Y R Mayhew, Engineering ThermodynamicsWork and Heat Transfer 4e, Pearson 2003. 4. J P Howell and P O Buckius, Fundamentals of Engineering Thermodynamics, McGraw Hill, 1987. Main differences between the proposed and the existing courses:
+1. Inclusion:
+a. All the topic of the existing Thermodynamics (ME205) course
+b. Thermodynamics of reactive systems and combustion
+c. Mixture of ideal gases
+d. Vapor compression cycle
+e. Psychometry
+ME214 Mechanics of Solids L-T-P-C: 3-0-0-6
+Course Objectives: The objective of this course is to introduce students to the
+advanced principles and methods of solid mechanics. Design exercises help students to
+apply theoretical knowledge to practical problems.
+Expected learning outcomes: Following learning outcomes are expected after going
+through this course. a) Learn and apply general mathematical and computer skills to solve structural
+mechanics problems.
+b) Introduction to tensors.
+Pre-requisites: Engineering Mechanics (ME102)
+Syllabus:
+1. Stress as a tensor: stress at point, Cauchy stress tensor, equilibrium equations,
+analysis of deformation and definition of strain components, compatibility
+relations: One-to-one deformation mapping, invertiblity of deformation gradient, Compatibility condition. 2. Constitutive relations, Theory of failures for isotropic materials.
+3. Some properties of Stress and Strain Tensor: Principal stresses and strains,
+stress and strain invariants. Uniqueness of solution. Plane stress and plane
+strain problems, Airy's stress function. 4. 2-D problems in polar coordinates: Thin and thick walled cylinder, Rotating disks
+and cylinders. 5. Torsion of non-circular bars: Saint Venant's semi-inverse method, Prandtl stress
+function. Elliptical and triangular shaft, shaft with cutout, rectangular shaft, hollow
+shafts, thin tubes narrow rectangular shaft. Membrane analogy. 6. Advanced problem in beam bending: Unsymmetrical bending: pure bending of
+prismatic and composite beams. Curved beam. Bending of beam with thin profile
+section - shear flow, determination of shear center. 7. Elastic stability: Buckling of mechanisms, Buckling of straight and bent beam- columns.
+8. Energy Methods: Strain energy due to axial, torsion, bending and transverse
+shear. Comparison of strain energies due to bending and shear. Castigliano’s
+theorem, reciprocity theorem etc.
+9. Contact Stresses: Geometry of contact surface, methods of computing contact
+stress, deflection of bodies in point contact and line contact with normal load. 10.Stress Concentration: Plate with circular hole. 11.Introduction to plate theory (Kirchhoff's theory). Texts/References:
+1. S. Timoshenko, Strength of Materials – Parts I and Part II, 3
+rd Ed., CBS Publishers and
+Distributers, 2004. 2. L.S. Srinath, Advanced Mechanics of Solids, Tata McGraw Hill, 2009. 3. E.P. Popov, Engineering Mechanics of Solids, 2
+nd Ed, PHI, 1998. 4. F. P. Beer and E. R. Johnston, J.T. Dewolf, and D.F. Mazurek, Mechanics of Materials, 6
+th Ed, McGraw Hill Education (India) Pvt. Ltd., 2012. 5. Y.C. Fung, Foundations of Solid Mechanics, Prentice-Hall, 1965. 6. S. C. Crandall, N. C. Dahl, and T. J. Lardner, An Introduction to the Mechanics of Solids, 2e, McGraw Hill, 1999. 7. S. P. Timoshenko and J. N. Goodier, Theory of Elasticity, 3e, McGraw Hill International, 1970.
+ME208 Kinematics and Dynamics of Mechanisms L-T-P-C: 3-0- 2-8
+Course Objectives: The objectives of this course are to cover the kinematics and
+dynamics of planar single degree-of-freedom mechanisms. Specifically, this course will
+introduce students to the graphical and analytical techniques used for analysis and
+design of planar mechanism. A semester long course project will be assigned to enable
+students to apply learned theoretical concepts to real life problems. A side objective of
+this course will be to introduce Matlab as a computer tool to solve analysis equations.
+Expected learning outcomes: Following learning outcomes are expected after going
+through this course. a) Learn and apply general mathematical and computer skills to kinematics and
+dynamics analysis of machine elements including linkages, cams, and gears,
+within the general machine design context.
+b) Apply the theoretical principles to a real life problem using computer tools.
+c) Application of MATLAB software to solve kinematics and dynamics problems.
+Pre-requisites:Dynamics (ME201)
+Syllabus:
+Sr. No. Topics
+1 Introduction and course policies
+2 Degrees of freedom, elements of kinematic chains, Kutzbach, Gruebler, Grashof’s criterion
+3 Graphical method of kinematic (displacement, velocity and acceleration)
+analysis of planar mechanisms
+4 Analytical and computer-aided method of kinematic analysis of planar and
+spatial mechanisms
+5 Synthesis of mechanisms
+6 Special mechanisms: steering, Hooke’s joint
+7 Introduction to Cams, classification, terminology of Cams, Design and
+synthesis of cams by analytical and graphical methods
+8 Different gear trains, applications of gears in gear boxes
+9 Static and dynamic force analysis, friction in joints
+Texts/References
+1. J. E. Shighley and J.J. Uicker, Theory of Machines and Mechanisms, McGraw Hill, 1995
+2. A. K. Mallik, A. Ghosh, G. Dittrich, Kinematic analysis and synthesis of Mechanisms, CRC, 1994. 3. A. G. Erdman and G. N. Sandor, Mechanism Design, Analysis and Synthesis Volume 1, PHI, Inc., 1997. 4. J. S. Rao and R. V. Dukkipati, Mechanism and Machine Theory, New Age International, 1992. 5. S. S. Rattan, Theory of Machines, Tata McGraw Hill, 1993. 6. T. Bevan. Theory of Machines, CBS Publishers and Distributors, 1984
+ME216 Fluid Mechanics L-T-P-C: 3-0-2-8
+Pre-requisites: Nil
+Course objectives:
+a) To develop the basic understanding of fluid statics and dynamics
+b) To develop analytical skills to deal with various types of fluid flow problems
+c) Laboratory sessions are designed for developing experimental skills
+Proposed Course Content
+Introduction: Definition and classification of fluids, Fluid as a continuum, Properties of fluids,
+Fluid Statics: Pascal’s Law, Submerged surfaces Buoyancy and Stability , Stability of
+submerged bodies, Fluid in a Rigid Body Motion, Fluid Kinematics: Lagrangian and Eulerian
+Approaches, Features of fluid Motion, Conservation Equation: Reynolds Transport Theorem, Conservation mass, momentum and energy, Steady Incompressible Viscous Flows: Flow
+between infinite parallel plates, Couette Flow, Hagen-Poiseuille Flow, Losses in a pipe, Pipe
+networks, Boundary layer flow: Prandtl boundary layer equations, Blasius Solution Von Karman
+Momentum Integral Equation, Boundary layer separation, Potential flow: stream and velocity
+potential function, basic flows, doublet, Blunt body etc., Compressible Flows: Velocity of sound , Mach number , Convergent Nozzles, Convergent-Divergent Nozzles, Fanno Flow, Rayleigh
+Flow, Shock Waves, Turbulent Flows: character of turbulence, Reynolds-averaged, Navier- Stokes equation, Anatomy of turbulent boundary layer, Prandtl mixing length model. Dimensional Analysis and Similitude: Buckingham-pi theorem, Similarities-geometric, kinematic
+and dynamic.
+Experiments in Fluid Mechanics
+1. Measurement inside a wind tunnel: pressure, velocity, lift, drag, Bernoulli’s
+exercise, Boundary layer development
+2. PIV measurements
+3. Reynolds Experiment
+4. Flow measurements in pipe flow
+5. Flow measurements in open channel flow
+6. Losses in a pipe network
+Text and Reference Books:
+1. F. M. White, 1999, Fluid Mechanics, 4th Ed, McGraw-Hill. 2. Cengel and Cimbala, Fluid Mechanics: Fundamentals and Applications, Mc Graw Hill. 3. R. W. Fox and A. T. McDonald, 1998, Introduction to Fluid Mechanics, 5th Ed, John Wiley. 4. V. Streeter and Benjamin, 2001, Fluid Mechanics:First SI-Metric Edition, Tata Mc Graw Hill. 5. Irwing Shames, Mechanics of Fluids, 4th Ed., McGraw Hill. 6. PijushKundu, 2002, Fluid Mechanics, 2nd Ed., Academic Press. 7. B. R. Munson, D. F. Young and T. H. Okhiishi, Fundamentals of Fluid Mechanics, 4th Ed, John
+Wiley, 2002. 8. S. W. Yuan, 1988, Foundations of Fluid Mechanics, Prentice Hall of India. 9. Batchelor G.K., 2000, An Introduction to Fluid Dynamics,2nd edition, Cambridge University press, 10. James Fay, Introduction to Fluid Mechanics, Prentice hall India. 11.
+ME292 Measurement Laboratory L-T-P-C: 0-0-2-2
+S. No. Contents Contact
+Hours
+1. Metrology
+ Measurement of Angle
+ Design and Manufacturing of Go and No-Go gauges in
+Shaft and Hole system
+ Measurement of Surface parameters RA, CLA etc
+ Measurement of Alignment – Shafts, Motors.  Interferometry and measurement of precession flatness
+and Alignment
+6
+2. Measurement of Flow and Temperature
+ Flow Measurement through- Venturi, orifice, Hot wire
+anemometer.  Temperature measurement through thermocouple, Thermogram.
+6
+3. DAQ and Signal Processing
+ DAQ and its components
+ Low pass and High pass filters
+ Spectrum Analysis
+4
+4. Measurement of Force, Velocity Acceleration
+ Measurement of Cutting force through Dynamometers
+ Measurement of Acceleration by Accelerometer/ Velocity
+ Dynamic Force by Impedance Head
+4
+5. Project
+A group of students will conceptualize, design, and fabricate
+a sensor (e.g. temperature, force, pressure, RPM etc.). The
+8
+Course Prerequisite: Nil
+Course Objective: After completion of this course the student should be able to:  Recognize different sensors and measurement Methodology in
+Measurement Systems.  Should be able to apply measurement Fundamentals in innovative way to
+apply in varieties of systems.  Project Based Lab- a) select and apply appropriate design methodology
+b) generate a variety of conceptual instruments c) demonstration of
+feasibility of the conceptual design with special emphasis on Mechanical
+Systems.
+Details of Course:
+students will then characterize the sensor by designing and
+performing proof-of-concept experiments.
+Deliverables
+1. A bench top sensor fabricated by the students
+2. A project report that will include the following
+components
+ Introduction
+ State-of-the-art of the concerned sensing
+technology
+ Principle of Operation
+ Design Methodology
+ Proof-of-concept experiments
+ Discussion and analysis
+ Order (First order, second order)  Instrumentation and Signal Processing
+ Range
+ Resolution
+ Accuracy
+ Precision
+ Linearity
+ Uncertainty Propagation
+ Conclusions
+ Future work and lessons learnt
+3. The student will also submit a 3 minute video where they
+will explain how the sensor works and discuss the
+unique features it possesses. The video should be
+captured keeping in mind the fact that it should be easy
+to understand and a high school student can
+comprehend the basic principle of operation. Total 28
+Suggested Books:
+1. E. O. Doebelin, “Measurement systems- Applications and Design”, 4e, Tata McGraw-Hill, 1990. 2. T. G. Beckwith, R. D. Marangoni and J. H. Lienhard, “Mechanical Measurements”, 5e, Addison Wesley, 1993. 3. Riley Dally and McConnell, “Instrumentation for engineering measurements”, 2e, John Wiley
+& Sons, 1993. 4. R. S. Figiola and D. E. Beasley, “Theory and design for mechanical measurements”, 2(e),
+John Wiley, 1995. 5. “Handbook of Modern Sensors” by Jacob Fraden
+ME313 Design of Machine Elements L-T-P-C : 3-0-3-9
+Pre-requisites: Mechanics of Solids (ME204)
+Syllabus:
+Limits, fits, and tolerances, Principles of mechanical design; Factor of safety, strength, rigidity, fracture, wear, and material considerations; Stress concentrations; Design for
+fatigue; Design of bolted, and welded joints; Shafts; Keys; Clutches; Brakes; Springs;
+Gears; bearing and lubrication. Laboratory session:  Machine Drawing: Assembly and Part drawings,Solid modeling etc.  Design of gear box and sub-components (shafts, bearings, bolts, housing, coupling, etc.);  IC engine components ; Screw jack; Shaft coupling;  Computer Aided Design
+ Two Tribology experiments
+Texts/References:
+1. J. E. Shigley, Mechanical Engineering Design, McGraw Hill, 1989. 2. Design Data, PSG Tech, Coimbatore, 1995
+3. M. F. Spotts, Design of Machine Elements, 6th ed., Prentice Hall, 1985
+4. A. H. Burr and J. B. Cheatham, Mechanical Analysis and Design, 2nd ed., Prentice Hall, 1997. 5. Machine Drawing by N D Bhatt
+ME315 Heat and Mass Transfer L-T-P-C: 3-0-2-8
+Pre-requisites: Nil
+Course objectives:
+a) To learn the fundamentals of heat conduction, convection, and radiation
+b) To be able to solve basic heat transfer engineering problems
+Proposed Course Content
+Modes of heat transfer:Conduction: One-dimensional steady conduction, resistance network
+analogy, fins, two- and three-dimensional steady conduction, one-dimensional unsteady
+conduction, semi-infinite solids. Convection: fundamentals, order of magnitude analysis of
+momentum and energy equations, hydrodynamic and thermal boundary layers, dimensional
+analysis, free and forced convection, external and internal flows. Heat exchangers: LMTD and
+є-NTU methods. Radiation: Stefan Boltzmann law, Planck’s law, emissivity and absorptivity, radiant exchange between black surfaces, view factors, network analysis. Phase change heat
+transfer: Boiling and condensation. Mass transfer: molecular diffusion, Fick’s law, binary
+species
+List of experiments
+1. Measurement thermal conductivity different materials using composite wall apparatus
+2. Unsteady heat conduction experiment
+3. Determination of a convective heat transfer coefficient in (a) natural and (b) force
+convection
+4. Performance evaluation of double pipe heat exchanger for (a) parallel flow (b) counter
+flow
+5. Emissivity measurement
+6. Performance evaluation of shell-and-tube heat exchanger
+7. Phase change heat transfer: (a) Pool boiling and (b) Condensation
+Texts and References
+1. F.P. Incropera and D.P. Dewitt, Fundamentals of Heat and Mass Transfer, 4
+th Edition, John Wiley and
+Sons. 1996. 2. J.P. Holman, Heat Transfer, 8
+th Edition, McGraw Hill, 1997. 3. M.N. Ozisik, Heat Transfer – A basic approach, McGraw Hill, 1985. 4. Bejan, Convection Heat Transfer, 2
+nd Edition, Interscience, 1994. 5. Y. A. Cengel, Heat and Mass Transfer, 3
+rd Edition, Tata McGraw-Hill, New Delhi, 2007. Main differences between the proposed and the current course structure:
+2. As per the suggestion of the external advisors and discussion among the faculty
+member at IIT Patna, the theory course has been combined with heat transfer laboratory. 3. Deletions
+a. special heat transfer processes like transpiration and film cooling
+b. ablative cooling
+ME331 Manufacturing Technology - I L-T-P-C: 3-0-0-6
+Pre-requisites: Nil
+Module 1: Foundry
+Moulding materials and their requirements: types, composition and properties of
+molding sand, sand testing; Patterns: types of patterns, pattern allowances; Casting
+processes: sand casting, shell moulding, sodium silicate moulding, no bake moulding, gravity die, pressure die casting, investment casting, centrifugal casting, continuous
+casting, thin roll casting, plaster moulding, ceramic shell moulding; Solidification of
+casting: nucleation, grain growth, flow properties of molten metal, mechanism of heat
+transfer, phase change, solidification of binary alloy, directional and progressive
+solidification; Gating and risering systems: casting terminology, design of flask, sprue, runner and gating system, type of gate, time of solidification, chill and chaplet, CFR;
+Casting defects and their remedies.
+Module 2: Joining processes
+Physics, principle of operation and process parameters: Fusion welding (MMAW, MIG, TIG, SAW, power characteristics, seam, spot, projection, electroslag, Thermit and gas
+welding), Solid-state welding (adhesive, diffusion, friction, ultrasonic and explosive
+welding), Solid-liquid state welding (brazing and soldering), Unconventional welding
+(EBW, LBW etc.); Relative advantages and limitations of joining processes; Welding
+defects, inspection and testing. Module 3: Fundamentals of metal forming
+Introduction to plastic deformation of materials and related properties; various bulk
+deformation processes (forging, drawing, extrusion, rolling, swaging); load analysis of
+various bulk deformation processes by slab method; forming defects; sheet metal
+working (blanking & punching, bending, deep drawing, spinning, load analysis);
+Module 4: Powder metallurgy
+Basic principles, powder properties and production, blending and mixing, compaction, sintering, post-sintering treatment, shape factor and aspect ratio, advantages and
+limitations of the process, applications.
+Texts/References:
+1. James S Campbell, Principles of Manufacturing Materials and Processes, Tata McGraw Hill, 1995. 2. F.C. Flemmings, Solidification processing, Tata McGraw Hill, 1982
+3. M J Rao, Manufacturing Technology: Foundry, Forming and Welding, Tata McGraw Hill, 1987. 4. G E Linnert, Welding Metallurgy, AWS, 1994. 5. P C Pandey and C K Singh, Production Engineering Sciences, Standard Publishers Ltd. 1980. 6. R W Heine, C R Loper, and P C Rosenthal, Principles of Metal Casting, 2nd ed, Tata McGraw
+Hill, 1976. 7. A Ghosh and A K Mallik, Manufacturing Science, Wiley Eastern, 1986. ME393 Engineering Software Laboratory L-T-P-C: 1-0-3-5
+Course Objective: Exposure to industrial softwares used in Mechanical Engineering
+practices.
+Course Contents:
+CAD/CAM: 2D and 3D geometric transformation, Composite Transformation, Projections; Curves: Cubic, Bezier, Splines; Surfaces: Quadric, Coons patch, Super
+Quadric, Bezier, B-Splines. Process planning, CL data generation, Automatic CNC code
+generation. FEM: Solid model creation, different types of elements, chunking of model, meshing, mesh quality, different kinds of analysis : static, dynamic, transient, thermal, electro- magnetic, acoustics, sub-structuring and condensation, Error and convergence. CFD: Different types of CFD techniques, various stages of CFD techniques (i) pre
+processor: governing equations, boundary conditions, grid generation, different
+discretization techniques (ii) processor: solution schemes, different solvers (iii) post- processing: analysis of results, validation, grid independent studies etc. Developing
+codes using commercial software for solving few problems of laminar and turbulent flow
+with heat transfer applications.
+Engineering softwares related to CAD/CAM, FEM, CFD, with both GUI and script like
+languages, are to be used for laboratory assignments.
+Text/Reference Books:
+1. D. F. Rogers and J. A. Adams, “Mathematical Elements for Computer Ggraphics”, McGraw-Hill, 1990
+2. M. Groover and E. Zimmers, “CAD/CAM: Computer-Aided Design and Manufacturing”, Pearson
+Education, 2009. 3. A. Saxena and B. Sahay, “Computer Aided Engineering Design”, Springer, 2007. 4. J. N. Reddy, “An Introduction to Finite Element Methods”, 3rd Ed., Tata McGraw-Hill, 2005. 5. J. Fish, and T. Belytschko, “A First Course in Finite Elements”, 1
+st Ed., John Wiley and Sons, 2007. 6. J. D. Anderson, “Computational Fluid Dynamics”, McGraw-Hill Inc. (1995).
+7. H. K. Versteeg and W. Malalaskera, “An Introduction to Computational Fluid Dynamics”, Dorling
+Kindersley (India) Pvt. Ltd. (2008).
+ME395/ME396 Engineering Practicum I & II L-T-P-C: 0-0-3-3
+Pre-requisites: Nil
+Course objectives:
+To instill among students a systematic approach for solving current research or practical
+mechanical engineering problems
+Description:
+A student will work on a current research or practical mechanical engineering problemof interest. The problem to be undertaken should require implementation of fundamental
+knowledge earned in at least two of the three (Design, Manufacturing, Thermal and
+Fluids) streams of the mechanical engineering. The problem should have sufficient
+scope both for theoretical/analytical/numerical modeling and hands-on experience. The
+project should be broken down into logical intermediate steps such as understanding
+problem definition, literature review to assess the existing solutions, back-of-the- envelope calculations to downselect a few better candidates, propose modification to
+these solutions if required, preliminary modeling, set-up design/algorithm development,
+fabrication/code development, experiments/benchmarking, analysis and interpretation of
+the results. The project must deliver a hardware or a computation package along with
+the detailed report summarizing the same. Guidelines:
+1. Each student will work individually with at least two faculty members
+2. Faculty members should represent at least two of the three (Design, Manufacturing, Thermal and Fluids) streams of the mechanical engineering
+3. The pool of projects with well-defined practical problems should be announced at
+least two weeks before the start of the semester
+4. Intermediate and final deliverables upon the successful completion of the project
+should be clearly identified in the announcement
+5. The course must involve weekly interaction between the student and the faculty
+members
+6. Two seminars each semester must be scheduled to present the progress of the
+project
+7. A prototype/computational package and a report will be due at the end of the
+second semester
+ME312 System Dynamics and Control L-T-P-C: 3-0-2-8
+Pre-requisite: Dynamics (ME201)
+Syllabus:
+Fundamental of System- zero, first and second order system- application to free
+vibration. Transfer function- application to SDOF forced vibration, whirling of rotating shaft and
+critical speeds of shafts, vibration isolation, Transfer functions of some standard motion
+sensor like accelerometer, seismometer and velocity pick up. Feedback System- Block diagram and signal flow representation, state space model.
+Introduction to PID controller, Application to common control system. Stability and analysis of Dynamical System- Routh-Hurwitz stability criterion, relative
+stability, Root-locus method, Bode diagrams, Nyquist stability criterion, PI, PD, and PID
+controllers; Lead, lag, and lag-lead compensators, Application to common engineering
+problems.
+Introduction to Passive two and multi-DOF system- normal mode vibration, coordinate coupling, forced harmonic vibration, vibration absorber, flexibility matrix, stiffness matrix, reciprocity theorem, eigenvalues and eigenvectors, orthogonal
+properties of eigenvectors, modal matrix, Normal mode summation.
+Introduction to State Space Control: Controllability, observability and design. List of Experiments:
+1. To determine the natural frequency of a cantilever beam
+2. To determine the effect of feedback on a cantilever beam
+3. To obtain the transient response of a cantilever beam
+4. To design Multi DOF vibration modes in Air Track
+5. Circuit simulation with PID controller
+6. To control the water level of Couple Tank system
+7. To design control parameter of Active mass suspension
+8. To experiment with sensor/instrumentation kit- Strain Gauge, LVDT, Thermocouple, DAQ, etc
+Texts/References:
+1. W. T. Thomsom and Dahleh, M. D., Theory of Vibration with Applications, 5th ed., Pearson
+Education, 1999. 2. Doebelin E.O., Measurement systems- Applications and Design, 4e, Tata McGraw-Hill, 1990
+3. K Ogata, Modern Control Engineering, 4th ed, Pearson Education Asia, 2002. 4. B C Kuo and F. Golnaraghi, Automatic Control Systems, 8th ed, John Wiley (students ed.),
+2002. 5. M Gopal, Control Systems: Principles and Design, 2nd ed, TMH, 2002. 6. M Gopal, Modern Control System Theory, 2nd ed., New Age International, 1993. 7. R. C. Dorf and R. H. Bishop, Modern Control Systems, 8th ed., Addison Wesley, 1998. 8. P. Belanger, Control Engineering: A modern approach, Saunders College Publishing, 1995. ME314 Applied Thermodynamics L-T-P-C: 3-0-2-8
+Prerequisite: Thermodynamics (ME211)
+Objective: To introduce students various conventional applied thermal systems and the
+corresponding thermodynamic design procedures for each of these systems.
+Module Contents No of Lectures
+Module 1 Vapour power Cycles:
+Rankine cycle, reheat cycle, regenerative cycle, cogeneration, low-temperature power cycles, ideal
+working fluid and binary/multi-fluid cycles; Steam
+Turbine: impulse and reaction stage, degree of reaction, velocity triangle, velocity and pressure compounding, efficiencies, reheat factor, nozzles;
+Condenser; Cooling Tower.
+10
+Module 2 Turbomachinery: Pelton-wheel, Francis and Kaplan
+turbines
+2
+Module 3 Refrigeration and Air Conditioning:
+vapour compression and vapour absorption refrigerators,
+gas cycles, refrigerants and environmental issues; Air- conditioning;
+6
+Module 4 Compressors:
+Reciprocating Air Compressors: work transfer, volumetric
+efficiency, isothermal efficiency, multistage compression
+with intercooling. Centrifugal and Axial-Flow
+Compressors;
+3
+Module 5 Gas Turbine and Jet Propulsion:
+gas turbine cycle, intercooling, reheating, regeneration, closed cycles, optimal performance of various cycles,
+combined gas and steam cycles; Axial-Flow Gas Turbine;
+Jet Propulsion: turbojet, turbofan; Combustion
+Chambers;
+9
+Module 6 I.C. Engines: 12
+Classification - SI, CI, two-stroke, four-stroke etc., operating characteristics - mean effective pressure,
+torque and power, efficiencies, specific fuel consumption
+etc., air standard cycles - Otto, Diesel and dual, real airfuel engine cycles, Thermochemistry of fuels - S.I. and
+C.I. engine fuels, self ignition, octane number, cetane
+number, combustion in S.I. and C.I. engines, Air and fuel
+injection - injector and carburetor, MPFI etc., ignition, Engine Emissions.
+Text/Reference:
+1. G F C Rogers and Y R Mayhew, Engineering Thermodynamics Work and Heat Transfer 4e, Pearson, 2003. 2. T D Eastop and AMcConkey, Applied Thermodynamics for Engineering Technologists, 5e, Pearson, 2003. 3. M J Moran and H N Shapiro, Fundamentals of Engineering Thermodynamics 3e, John Wiley, 1995. 4. M MElWakil, Power Plant Technology, McGraw Hill International, 1992. 5. P K Nag, Powerplant Engineering, Tata McGraw Hill, 2e, 2002. 6. Refrigeration and Air Conditioning, Arora C P, TMH
+7. H I H Saravanamuttoo, G F C Rogers and H. Cohen, Gas Turbine Theory 4e, Pearson, 2003
+8. W WPulkrabek, Engineering Fundamentals of the Internal Combustion Engine , PHI, 2002. 9. C R Fergusan and A T Kirkpatrick, Internal Combustion Engines, John Wiley & Sons, 2001.
+List of Experiments:
+1. Performance of 4-stroke petrol engine
+2. Performance of 4-stroke diesel engine
+3. Exhaust Gas analysis
+4. Performance of Pelton turbine
+5. Performance of Francis turbine
+ME332 Manufacturing Technology - II L-T-P-C: 3-0-3-9
+Pre-requisites: Nil
+Module-I: Fundamentals of metal cutting
+Geometry of single point cutting tool (ORS, ASA etc.); orthogonal cutting; mechanism of
+chip formation; Analytical and experimental determination of cutting forces (Merchant’s
+circle diagram); cutting temperature (causes, effect, assessment and control);
+machinability; tool materials; failure of cutting tools and tool life; economics of metal
+cutting;
+Module-II: Machine tools
+Generatrix and directrix; classification of machine tools; setting and operations on
+machines: lathe, shaper, planer, milling, drilling, broaching, slotting, grinding, gear
+cutting machines; mechanism: thread cutting, pawl and ratchet wheel, quick return,
+indexing etc.; Finishing: honing, lapping; CNC machine tools;
+Module-III: Tooling
+Principle of location and clamping; principles of design of jigs and fixtures;
+Module-IV: Unconventional machining
+USM, AJM, AWJM, ECM, EDM, LBM, EBM: principle of operation, process parameters,
+material removal rate, advantages and limitations;
+Module-V: Manufacturing with plastic materials
+Properties of plastics; plastic materials; processing technology: extrusion, injection
+moulding, blow moulding, thermoforming, etc.;
+Texts/References:
+1. M. C. Shaw, Metal Cutting, Tata McGraw Hill, New Delhi, 2004. 2. S. Kalpakjain, S. R. Schmid, Manufacturing Processes for Engineering Materials, fifth edition, Pearson. 3. A. Ghosh and A. K. Malik, Manufacturing Science, East West Press, 2010. 4. P.N Rao, Manufacturing Technology, 4e, volume 1, McGraw Hill Education. 5. G. Boothroyd and W. A. Knight, Fundamentals of Machining and Machine Tools, CRC-Taylor and
+Francis, 2006.
+ME431 Industrial Engineering and Operations Research L-T-P-C: 3-0-0-6
+Pre-requisites: Probability and Statistics
+Module I:
+Introduction: history, method, Organisation: Theory, Principle, structure, Product
+Design and development: factors, product analysis, Production planning and
+control: function (process planning, material planning), classification (capacity, aggregrate, operational planning), forecasting methods Manufacturing planning: MRP, MRP-II, JIT, CIM, ERP, Asset management, Supply change management,Quality
+engineering: dimension, Juran quality, total quality, SPC, SQC (methods, reliability)
+Facility layout: type of layout, layout planning, line balancing, Chart and diagram:
+process analysis, operation chart, process chart, flow diagram, activity chart
+Economics: elasticity of demand, break even analysis Job evaluation: methods,
+wage payments plan, incentive scheme, Inventory control: Objective, type (ABC and
+VED analysis), EOQ (case study) Work measurement: cycle time, learning curve, charting technique, time study, motion study, work sampling Ergonomic:
+Objective,History, system components, Type(physical, cognitive, work environment,
+operational safety health). Module II:
+Introduction, Linear Programming: Graphical, Simplex, Dual Simplex, Transportation, Assignment, Integer Programming: Branch and Bound technique, Network Model:
+PERT and CPM, Spanning Tree (Prism and Kruskal algorithm). Text/References:
+1. S L Narasimhan, D W McLeavey, P J Billington, Production, Planning and Inventory Control, Prentice Hall, 1997. 2. O. P Khana, Industrial Engineering, Dhanpat Rai
+3. N V S Raju, Industrial Engineering and Management, CENAGE
+4. J L Riggs, Production Systems: Planning, Analysis and Control, Wiley, 3rd ed., 1981. 5. A Muhlemann, J Oakland and K Lockyer, Productions and Operations Management, Macmillan, 1992. 6. H A Taha, Operations Research - An Introduction, Prentice Hall of India, 1997. 7. J K Sharma, Operations Research, Macmillan, 1997.

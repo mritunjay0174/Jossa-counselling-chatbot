@@ -1,0 +1,100 @@
+syllabus of mining engineering
+Details of Departmental Compulsary (DC) Courses
+S. No. Course Code Course Name L-T-P Course Type
+1 MNC200 Elements of Mining 3-0-0 Theory
+2 MNC201 Rock Breakage 3-0-0 Theory
+3 MNC202 Mine Surveying 3-0-0 Theory
+4 MNC203 Mine Surveying Practical 0-0-2 Practical
+5 MNC204 Rock Breakage Practical 0-0-2 Practical
+6 MNC205 Rock Mechanics 3-0-0 Theory
+7 MNC206 Mine Ventilation 3-0-0 Theory
+8 MNC207 Underground Metal Mining 3-0-0 Theory
+9 MNC208 Underground Coal Mining 3-0-0 Theory
+10 MNC209 Rock Mechanics Practical 0-0-2 Practical
+11 MNC210 Mine Ventilation Practical - I 0-0-2 Practical
+12 MNC300 Surface Mining 3-0-0 Theory
+13 MNC301 Mine Planning and Economics 3-0-0 Theory
+14 MNC302 Computer Aided Mine Planning Practical 0-0-3 Practical
+15 MNC303 Mine Ventilation Practical - II 0-0-2 Practical
+16 MNC304 Mine Legislation and Safety 3-0-0 Theory
+17 MNC305 Mine Automation and Data Analytics 3-0-0 Theory
+18 MNC306 Mine Data Analytics Practical 0-0-2 Practical
+19 MNC307 Numerical Modelling/Remote Sensing & GIS Practical 0-0-2 Practical
+20 MNC401 Project - I 0-0-0 (6) Non-Contact
+21 MNC402 Project - II 0-0-0 (6) Non-Contact
+22 MNC503 Mine Planning and Design 3-0-0 Theory
+23 MNC504 Risk and Workplace Safety Management 3-0-0 Theory
+24 MNC505 Geomechanics Practical 0-0-2 Practical
+25 MNC506 Computer Aided Mine Planning and Design Practical 0-0-3 Practical
+26 MNC508 Geostatistics and Mine Valuation 3-0-0 Theory
+27 MNC509 Mine Simulation and Data Analytics Practical 0-0-3 Practical
+28 MNC516 Rock Excavation Practical 0-0-3 Practical
+29 MNC520 NATM and TBM Tunneling 3-0-0 Theory
+30 MNC523 Mine Surveying Techniques 3-0-0 Theory
+31 MNC524 Geographical Information System 3-0-0 Theory
+32 MNC525 Remote Sensing and Digital Image Processing 3-0-0 Theory
+33 MNC527 Geodesy and GNSS Surveying 3-0-0 Theory
+34 MNC528 Advanced Surveying Practical 0-0-3 Practical
+35 MNC529 GIS Practical 0-0-2 Practical
+36 MNC530 Computer Aided Mine Planning and Design 3-0-0 Theory
+37 MNC531 Microwave Remote Sensing 3-0-0 Theory
+38 MNC532 Remote Sensing and Image Processing Practical 0-0-3 Practical
+39 MNC533 Survey Camp 0-0-2 Practical
+40 MNC534 Geomechanics for Underground Space 3-0-0 Theory
+41 MNC535 Excavation Methods for Tunnels and Caverns 3-0-0 Theory
+42 MNC536 Computational Subsurface Ventilation and Environment 3-0-0 Theory
+43 MNC537 Computational Subsurface Ventilation and Environment Practical 0-0-3 Theory
+44 MNC538 Mass Production Mining Technology 3-0-0 Theory
+45 MNC539 Computational Geomechanics and Ground Control 3-0-0 Theory
+46 MNC540 Mining Equipment Reliability, Maintainability and Availability 3-0-0 Theory
+47 MNC542 Planning and design for Tunnels and Caverns 3-0-0 Theory
+48 MNC543 Numerical Modelling Practical 0-0-2 Practical
+49 MNC597 Thesis 0-0-0 (36) Non-Contact
+50 MNC598 Thesis 0-0-0 (18) Non-Contact
+51 MNC599 Thesis 0-0-0 (S/X) Audit
+52 MNC700 Research Methodology 3-0-0 Theory
+53 MNS401 Internship 0-0-0 (S/X) Audit
+S. No. Course Code Course Name L-T-P Course Type
+1 MNE201 Introduction to Mining 3-0-0 Theory
+2 MNE202 Introductory Rock Mechanics 3-0-0 Theory
+3 MNE203 Introduction to Applied Artificial Intelligence 3-0-0 Theory
+S. No. Course Code Course Name L-T-P Course Type
+1 MND400 Rock Excavation Engineering 3-0-0 Theory
+Department of Mining Engineering
+Departmental Compulsary (DC) Courses
+Details of Engineering Science Option (ESO) Courses
+ Engineering Science Option (ESO) Courses
+Details of Departmental Elective (DE) Courses
+Departmental Elective (DE) Courses
+2 MND401 Advanced Mine Ventilation 3-0-0 Theory
+3 MND402 Open Pit Slope Analysis and Design 3-0-0 Theory
+4 MND403 Geospatial Technology in Mining 3-0-0 Theory
+5 MND404 Mine System Engineering 3-0-0 Theory
+6 MND405 Mine Safety Engineering 3-0-0 Theory
+7 MND406 Mine Environmental Engineering 3-0-0 Theory
+8 MND407 Underground Space Technology 3-0-0 Theory
+9 MND408 Innovative Mining Systems 3-0-0 Theory
+10 MND409 Introduction to Geographical Information System 3-0-0 Theory
+11 MND410 Advanced Blasting Techniques 3-0-0 Theory
+12 MND411 Advanced Underground Mining Methods 3-0-0 Theory
+13 MND412 Deep Coal Mining 3-0-0 Theory
+14 MND500 Managerial Decision Making 3-0-0 Theory
+15 MND501 Mine Simulation and Data Analytics 3-0-0 Theory
+16 MND504 Modelling and Analysis of Geospatial data 3-0-0 Theory
+17 MND505 Geospatial Technologies for Natural Resources 3-0-0 Theory
+18 MND510 Analysis & Design of Slopes 3-0-0 Theory
+19 MND511 Modern Blasting Technology in Mining 3-0-0 Theory
+20 MND540 Element of Mining Engineering 3-0-0 Theory
+21 MND547 Mine Automation 3-0-0 Theory
+22 MND556 Computational Geomechanics 3-0-0 Theory
+S. No. Course Code Course Name L-T-P Course Type
+1 MNO301 Modern Surveying Techniques 3-0-0 Theory
+2 MNO302 Seabed Mining and Asteroid Mining 3-0-0 Theory
+3 MNO303 Underground Construction Engineering 3-0-0 Theory
+4 MNO304 Coal Mine Methane Recovery and Utilization 3-0-0 Theory
+5 MNO401 Rock Engineering 3-0-0 Theory
+6 MNO500 Responsible Mining 3-0-0 Theory
+7 MNO501 Mining, Energy and Climate Change 3-0-0 Theory
+8 MNO510 Rock Excavation Technology 3-0-0 Theory
+Details of Open Elective (OE) Courses
+Open Elective (OE) Courses

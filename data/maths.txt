@@ -1,0 +1,512 @@
+B.Tech – Mathematics and Computing (MnC) Curriculum
+Institute Core Courses
+Semester I
+Total Credits 21
+Course
+code L-T-P-C Course Name
+MTH 101 3-1-0-4 Calculus
+PH 101 3-0-0-3 Quantum Physics and Application
+CS 101 3-0-2-4 Introduction to Computing
+CH 101 1-1-0-2 Physical Chemistry
+CH 102 1-1-0-2 Inorganic and Organic Chemistry
+CH 104 0-0-3-2 Chemistry Lab II
+HS 101 3-0-0-3 Foundation Programme in Humanities and Social
+Sciences
+XX 100 1-0-0-1 Introduction to Profession
+NO 101 0-0-0-P/NP National Sports Organization
+Semester II
+Total Credits 23
+Course
+code L-T-P-C Course Name
+MTH 1021 3-1-0-2 Basic Linear Algebra
+MTH 1022 3-1-0-2 Ordinary Differential Equations
+PH 102 3-0-0-3 Electricity and Magnetism
+PH 103 0-0-3-2 Physics Lab
+EE 101 3-1-0-4 Introduction to Electrical and Electronics Engineering
+BIO 101 3-0-0-3 Introductory Biology
+ME 101 0-0-3-2 Introduction to Manufacturing
+ME 102 1-0-3-2 Engineering Graphics and Introduction to ComputerAided-Drawing
+NO 102 0-0-0-0-P/NP National Sports Organization
+XX XXX 3-0-0-3 Department Introductory Core Course
+Course Description
+MTH 101 Calculus 3-1-0-4
+Objective:
+This is a first course in calculus for Science and Engineering students. This course aims to
+provide a good understanding of the basic concepts of functions, limit, convergence,
+continuity, differentiation, and integration in one and several variables. It would provide a
+sufficient background of calculus to support their concurrent and subsequent Engineering
+studies.
+Contents:
+Univariate Calculus:
+ Real number system: Completeness axiom, density of rationals (irrationals) in real number
+field.
+ Sequences: Limits and convergence of sequences, Sandwich theorem, Monotone sequences,
+Subsequence, Bolzano-Weierstrass Theorem, Cauchy Convergence Criterion.
+ Limits, continuity, and differentiability of functions: Intermediate value theorem, extreme
+value theorem, chain rule, Rolle’s theorem, mean value theorem, Taylor’s theorem, maxima
+and minima.
+ Integrability of functions: Riemann integrals, Fundamental theorem of calculus, improper
+integrals, applications to area and volume. Series: Convergence of a series, power series.
+Multivariate Calculus:
+ Review of vector algebra: Euclidean space .
+ Limits, continuity, partial derivatives, gradient and directional derivatives, (total) derivative,
+chain rule, maxima and minima, Lagrange multipliers.
+ Integrability: Double and triple integrals, Fubini’s theorem, Jacobians and change of
+variables formula.
+ Parametrization of curves and surfaces, vector fields, line and surface integrals.
+ Divergence and curl, Theorems of Green, Gauss, and Stokes.
+Reference Textbooks:
+1. Hughes-Hallett et al. - Calculus - Single and Multivariable, John-Wiley and Sons.
+2. James Stewart - Calculus, Thomson.
+3. T. M. Apostol - Calculus, Volumes 1 and 2, Wiley Eastern.
+4. G. B. Thomas and R. L. Finney - Calculus and Analytic Geometry, Addison-Wesley.
+PH 101 Quantum Physics and Application 3-0-0-3
+Objective: Exposure towards “Quantum Mechanics and Quantum Statistics” to understand
+the behavior and dynamics of the subatomic level particles…
+Contents:
+Part A
+ Frame of Reference and limitation of classical physics.
+ Galilean and Lorentz transformation, Consequences of Lorentz Transformation.
+ Minkowski space time viewpoints and four vectors.
+ Energy momentum conservation in four vector notation.
+Part B:
+ Review of quantum concepts, Bohr model, Black body radiation. Quantum nature of light:
+Photoelectric Effect and Compton Effect. Stability of atoms and Bohr`s rules.
+ Wave particle duality: De Broglie wavelength, Group and Phase velocity. Uncertainty
+Principle, Double Slit Experiment, Application of Uncertainty principles in physical
+problems.
+ Failures of classical wave and Newtonian dynamics.
+ An elementary introduction to the classical Lagrangian and Hamiltonian dynamics
+formulation, and connection to the quantum version.
+ Introduction of Schrödinger Equation. Physical interpretation of wave function, Born
+interpretation, Elementary idea of operators (Hermitian), expectation value, eigen-value
+problem and commutators. Solution of Schrödinger equations for simple boundary value
+problems.
+ Reflection and transmission coefficients, quantum tunneling problem with examples, Particle
+in a three dimensional box, and concept of degenerate states. Concept of stationary states.
+ An introduction to the identical quantum particles, boson and fermion. Exposure to Harmonic
+Oscillator and Hydrogen Atom problem (without deriving the general solution).
+ Quantum Statistics: Concept of micro, macro states and phase space. Ergodic hypothesis and
+postulates of equal priori probability.
+ Maxwell Boltzmann, Bose Einstein and Fermi Dirac Statistics by detailed balance arguments
+and particles distribution probability.
+ Density of states. applications of B-E statistics: Lasers. Bose-Einstein Condensation.
+ Applications of F-D statistics: free electron model of metals.
+ Concept of Fermi energy.
+ Application of potential well problem in solid state physics: elementary ideas of band theory
+of solids, band gap.
+ Exposure to semiconductors, Superconductors.
+Reference Textbooks:
+1. Introduction to the Special Theory of Relativity: R. Resnick, John Wiley 2003.
+2. Basic Concepts in Relativity and Early Quantum Theory: R. Resnick and D. Halliday, John
+Wiley 1985.
+3. Special Relativity: A. P. French, W. W Norton & Co. Inc. MIT Introductory Physics Series,
+1968.
+4. Classical Mechanics: H. Goldstein, Pearson, 2014, 3rd Edition.
+5. Quantum Physics: R Eisberg and R. Resnick, John Wiley 2002, 2nd Edition.
+6. Modern Physics: K. S. Krane, John Wiley 1998, 2nd Edition.
+7. Concept of Modern Physics: A. Baiser, Tata McGraw Hill, 2009.
+8. Lectures on Physics: R. P. Feynman Lecture Series, vol. III, Pearson Education, 2006.
+9. Quantum Mechanics: B. H. Bransden and C. J. Joachain, Prentice Hall India, 2000, 2nd
+Edition.
+10. Introduction to Quantum Mechanics: D. J Griffith, Prentice Hall India, 2011, 2nd Edition.
+11. Quantum Mechanics Theory and Application: A. K. Ghatak and S. Loanathan, Macmillan
+India, 2005, 5th Edition.
+12. Quantum Mechanics concept and application: N. Zettili, Wiley, 2009, 2nd Edition.
+13. Quantum Physics: S. Gasiorowicz, John Wiley 2003, 3rd Edition.
+14. Introduction to the Statistical Mechanics: B. B Laud, Macmillan India, 1981.
+15. Statistical Mechanics: R. K. Pathria, Butterworth-Heinemann, 1996, 2nd Edition.
+16. Introduction to Solid State Physics: C. Kittel, Wiley India, 2007, 7th Edition.
+17. Lasers, Fundamentals and Applications: K. Thyagarajan and A. K. Ghatak, Springer, 2010,
+2nd Edition.
+CS 101 Introduction to Computing 3-0-2-4
+Objective: The student should be able to write reasonably complex programs involving
+sorting, searching, file operations, etc. in a procedural and object oriented way.
+Contents:
+ Problem solving step-by-step, notion of algorithm
+ Introduction to Python language
+ Variables and types, arithmetic and Boolean expressions, comparison operators
+ Control structures – if, if else, if elif else, while, while else
+ Functions, passing arguments, recursion, default arguments
+ Turtle graphics
+ Lists, tuples, operations on lists and tuples
+ Strings, string operations, split and join on strings
+ Sorting, bubble sort, selection sort, binary search
+ Higher order list operations – map, filter, reduce, zip
+ Files, file operations – read, write, seek, tell
+ Dictionaries, dictionary operations
+ Classes and objects, object constructors, object and class variables, dunder functions
+ Classes case study – matrices, polynomials, complex numbers, linked lists, trees
+ Number systems, decimal, octal, hexadecimal, binary, conversions between number systems,
+adding, subtracting, multiplying, one’s complement, two’s complement, bit operations
+ GUI using tkinter, buttons, labels, entry widgets, layout using place, grid and pack
+Suggested Textbook:
+1. How to Think like a Computer Scientist, Allen B. Downey, 2002
+Reference Textbook:
+1. Think Python: An Introduction to Software Design, A. B. Downey, 2012
+HS 101 Foundation Programme in Humanities and Social Sciences 3-0-0-3
+Objective: This programme would cover a variety of activities and expose students to various
+fields in Humanities and Social Sciences as well as interdisciplinary areas of study. These
+would range from Literature Appreciation, Painting, Cinema Study, and Music to
+Architecture, Aesthetics, History of Culture, Cognition, Language and Culture, Environment,
+Ethics, Psychology, Leadership, communication, community service and many more. The
+Programme aims to instil in students Leadership, creativity, Value judgement and Ethics,
+Respect for diversity-social, environmental, political etc. Along with a better understanding
+of national and international issues and responsibility towards welfare of our people and
+environment
+Contents:
+ Leadership, Communication, and Teamwork- To help students develop effective
+communication, learn team building and teamwork, so that they can take up the leadership
+roles in future.
+ Values and Ethics- To instil the sense of ethics in work and life.
+ Art and creativity- To help students recognise and channelize the inner creativity they
+possess. To appreciate and understand art and evolution of human civilisation.
+ Understanding culture and diversity- To help students recognise and understand diversity in
+culture, societies, environment, ability etc. in the process making them sensitive and
+appreciative of these differences.
+ Humanities and Social Sciences-Perspectives - Special lectures and workshops by eminent
+scholars in the field of Humanities, Social Sciences, and Arts to familiarise students with
+these fields and expand their understanding of the world around.
+CH 101 Physical Chemistry 1-1-0-2
+Objective: The course introduces modern aspects of Chemistry to the undergraduate students
+of IIT Goa. The aim of the course is to inculcate scientific aptitude in the learners. The course
+introduces them on how to approach a given problem by different means, e.g. solving ab
+initio, taking tools from an already solved but unrelated problem. Then it teaches the students
+to apply them to get a better insight. In order to achieve this, the course uses principles and
+applications of Quantum Chemistry.
+Contents:
+ Dawn of quantum chemistry, Schrodinger equation, Origin of quantization, Born
+interpretation of wave function.
+ Particle in a box, Hydrogen atom: solution to f-part, Atomic orbitals, many electron atoms
+and spin orbitals.
+ Chemical bonding: MO theory: LCAO molecular orbitals, Structure, bonding and energy
+levels of diatomic molecules. Concepts of sp, sp2 and sp3 hybridization; Bonding and shape
+of many atom molecules. Origin of electronic transitions and its application to explain spectra
+of atoms, molecules and nanoparticles.
+Suggested Textbooks:
+1. P. Atkins and J. de Paula, Atkins. Physical Chemistry, Oxford University Press, 8th edition,
+2006.
+2. I. N. Levine, Physical Chemistry, 5th edition, Tata McGraw-Hill, New Delhi, 2002.
+3. D. A. McQuarrie and J.D. Simon, Physical Chemistry - a molecular approach, Viva Books
+Pvt. Ltd. (1998)
+CH 102 Inorganic and Organic Chemistry 1-1-0-2
+Objective: Inorganic and Organic Chemistry: This course is designed in such a way that it
+brings out the essence of inorganic and organic chemistry. While the inorganic chemistry
+gives a molecular-level understanding of our surroundings by laying emphasis on elemental
+properties and gives a snapshot of inorganic chemistry in our daily life, the organic chemistry
+contents introduce the student to universal concepts associated with chemistry like stability
+and reactivity of molecules with an emphasis on implications at higher levels of molecular
+arrangements. These concepts are extremely useful for different fields of engineering.
+Contents:
+Inorganic Chemistry:
+ Periodic trends and general concepts of coordination chemistry
+ Structure and bonding: Valence bond theory, crystal field theory, ligand field theory.
+Application on magnetism and color of the complexes.
+ Catalysis: 18 electron rule, general concept of catalysis, hydrogenation, hydroformylation and
+alkene metathesis reaction.
+ Bioinorganic chemistry: Transport and storage protein, Inorganic medicinal chemistry
+Organic Chemistry
+ Qualitative Hückel MOs of conjugated polyenes: Acyclic and Cyclic, MO basis of
+Aromaticity.
+ Configuration, molecular chirality and isomerism, Conformations of alkanes and
+cycloalkanes and its effect on reactivity and selectivity.
+ Reactivity of carbonyl group: Nucleophilic Addition, Enolate Chemistry.
+ Introduction to Asymmetric Synthesis, Small Organic Molecules as Bioactive Molecules.
+Suggested Textbooks:
+1. T. W. G. Solomons, C. B. Fryhle, Organic Chemistry, 9th Edition, WilelyIndia Pvt. Ltd.,
+2009
+2. R. T. Morrison and R. N. Boyd, Organic Chemistry, 6th edition, Pearson Com., 1992
+3. M. J. Sienko and R. A. Plane, Chemical Principles and Applications, McGraw Hill, 1980.
+4. J. D. Lee, Concise Inorganic Chemistry, 4th Edition, ELBS, 1991.
+5. D. D. Ebbing, General Chemistry, Houghton Miffin Co., 1984.
+CH 104 Chemistry Lab II 0-0-3-2
+Objective: This is an experimental chemistry lab course which will be conducted using our
+daily life utensils/substances at home. It will offer the students an alternate option of
+experiencing the experiments in the chemistry lab while staying at home. In addition, the
+students will feel the presence of chemistry and its action in our daily life.
+Contents:
+Experiment 1: Acid and Bases; Experiment 2: Paper Chromatography; Experiment 3:
+Absorption and reflection of light, Experiment 4: Emission of light; Experiment 5:
+Electrochemistry; Experiment 6: Understanding periodic properties; Experiment 7:
+Visualising atomic orbitals: The atomic orbitals of hydrogenic atom; Experiment 8: The
+molecular orbitals of diatomic molecules; Experiment 9: Ionic Reactions; Experiment 10:
+Crystallization.
+Text book(s):
+1. Vogel's Textbook of Practical Organic Chemistry, A. I. Vogel, A. R. Tatchell, B. S. Furnis,
+ A. J. Hannaford and P. W. G. Smith, Prentice Hall; 5th edition (1989).
+2. Concise Inorganic Chemistry, J. D. Lee, Oxford University Press; 5th edition (2008).
+3. Physical Chemistry, P. Atkins and J. de Paula, Oxford University Press; 10th edition
+(2014).
+Reference(s):
+1. https://www.webmo.net/demo/
+2. http://csi.chemie.tu-darmstadt.de/ak/immel/script/redirect.cgi?filename=http://csi.chem
+ie.tu-darmstadt.de/ak/immel/tutorials/orbitals/
+3. Additional references will be provided in the manual.
+ME 101 Introduction to Manufacturing Technology 0-0-3-2
+Objective: To help students acquire skills in basic engineering practice and to introduce them
+to basic machining techniques.
+Contents:
+ Fundamentals of Safety in Manufacturing
+ Introduction to marking and measurement devices
+ Basic workshop practice: filing, saw cutting, bending, fitting
+ Introduction to machine tools and its operations: lathe machine; turning, taper turning of
+Aluminum, Drilling, Milling
+ End milling of Al plates
+ Welding and Joining Techniques
+ Soldering of electrical circuit, Shielded Metal Arc Welding of Steel Plates.
+Suggested Textbooks:
+1. W. A. J. Chapman, Workshop Technology- Part 1, Edward Arnold Ltd, (2001).
+2. W. A. J. Chapman, Workshop Technology- Part 2, Edward Arnold Ltd, (2007).
+Reference Textbooks:
+1. Serope Kalpakjian , Steven R. Schmid., Manufacturing Engineering and Technology, Pearson
+Publication, (2016)
+NO 101 National Sports organization (P/NP)
+Objective: To instil the importance of a fit and healthy lifestyle.
+Contents:
+ All students get the opportunity to choose and signup for a sport and undergo training.
+ There will be training 5 days a week for 45 minutes each.
+MTH 1021 Basic Linear Algebra 3-1-0-2
+Objective: This is a basic course on linear algebra which is useful in mathematics, statistics,
+natural sciences and various branches of engineering.
+In the course, matrix will be introduced through the study of a system of linear equations. The
+students will be introduced to the concept of vector space and linear transformations and a
+fundamental result (called rank nullity theorem), relating the image and zero set of a linear
+transformation will be proven. Eigenvalues and eigenvectors will be studied and practical
+applications of eigenvalue and eigenvectors will be highlighted. Triangularization,
+diagonalization of a matrix and spectral theorem will be discussed.
+Contents:
+ System of Linear Equations
+ Matrix and Determinant, Determinant and its Properties, Row operations and Column
+operations
+ Vector Space, Row vectors and Column vectors
+ Basis
+ Linear combinations, Linear mappings, Rank of a matrix and its computation
+ Row rank=Column rank of a matrix and the rank nullity theorem
+ Solve a system of linear equations by using inverse matrix method
+ Eigen vector, Eigen value
+ Characteristic equation
+ Cayley-Hamilton theorem, Orthogonal Matrix, Projection matrix, Orthogonal basis, GramSchmidt orthogonalization technique, Upper and Lower Triangulation, The spectral theorem.
+Suggested Textbook:
+1. S.K Mapa. Higher Algebra- Abstract and Linear Algebra.
+Suggested Reference Textbooks:
+1. Linear Algebra- A geometric approach- S Kumareasn
+2. Linear Analysis- An introductory course - Bela Bollobas
+3. Introduction to Linear Algebra- Gilbert Strang
+4. Linear Algebra and its application- Gilbert Strang
+MTH 1022 Ordinary Differential Equations 3-1-0-2
+Objective:
+This is a traditional course for the students pursuing careers in engineering and sciences. The
+main objective of this course is to expose the students with the basic concepts of Ordinary
+Differential Equations (ODEs) using their existing knowledge of Calculus and Linear
+Algebra and equip them with the tools to construct the solution of ordinary differential
+equations.
+Contents:
+ First order differential equations, Separable equations, Exact equations, Picard’s existence
+and uniqueness theorem, solution set of linear first order ODE, second order ODE, linear
+independence and dependence of function and its relation with Wronskian, solution set of a
+linear ordinary differential equation.
+ Methods of solving second order linear equations:-Method of reduction of order, Variation of
+Parameters, linear ODE with constant coefficients, Annihilator methods, Laplace transform
+and its applications.
+Suggested Textbooks:
+1. E. Kreyszig, Advanced engineering mathematics (8th Edition), John Wiley (1999).
+2. W. E. Boyce and R. DiPrima, Elementary Differential Equations (8th Edition), John Wiley
+(2005).
+3. T. M. Apostol, Calculus, Volume 2 (2nd Edition), Wiley Eastern, 1980.
+4. G. F. Simmons: Ordinary Differential Equations, Differential equations with applications and
+historical notes, 2nd Edition.
+5. Earl A Coddington: An introduction to ordinary differential equations, (1990).
+PH 102 Electricity and Magnetism 2-1-0-3
+Objective: This course is designed to give a basic understanding of electromagnetic fields and
+their interactions with matter at both microscopic and macroscopic levels.
+Content:
+ Review of vector calculus, gradient, divergence, curl and Laplacian.
+ Spherical polar and cylindrical coordinates, Stokes and divergence theorems.
+ Coulomb’s law and principle of superposition. Gauss law and its applications.
+ Electric potential and electrostatic energy, Poisson’s and Laplace’s equations with examples,
+uniqueness theorem, boundary value problems, properties of conductors, method of images.
+ Dielectrics- Polarization and bound charges, displacement vector, Gauss law in presence of
+dielectrics, boundary value problems with linear dielectrics, energy in dielectric systems.
+ Lorentz force law, Magnetostatics- Biot & Savart’s law, Ampere’s law. Divergence and curl
+of magnetic field, vector potential and concept of gauge invariance.
+ Magnetism in matter, bound volume and bound surface currents, Field H, classification of
+magnetic materials. Faraday’s law in integral and differential form, motional emf,
+displacement current, Maxwell’s equations, electromagnetic waves, wave equation,
+electromagnetic waves in vacuum and media, refractive index, energy and momentum of
+electromagnetic waves.
+ Poynting vector, radiation pressure. Polarization of electromagnetic waves, Reflection and
+refraction, skin depth, standing electromagnetic waves, resonating cavity.
+ Waveguides with rectangular metallic boundaries, TE, TM and TEM mode Electric dipole
+radiation, Larmor’s formula.
+ Qualitative ideas on radiation pattern, relativistic invariance of Maxwell’s equation
+Suggested Textbooks:
+1. Introduction to Electrodynamics by D.J. Griffiths
+2. Electricity and Magnetism by Mahajan and Rangwala
+3. Electricity and Magnetism by Purcell (Berkeley Series)
+PH 103 Physics Lab 0-0-3-2
+Objective: This laboratory course is designed to give a hands-on experience to
+visualize/measure the physical phenomena/properties associated with light and matter.
+Content/Experiments:
+ Laser diffraction
+ Thermal conductivity
+ LCR bridge
+ Determination of e/m of electron
+ Grating Spectrometer
+ Fresnel’s Bi-prism
+ Torque on a current loop
+ Young’s Modulus
+Suggested References:
+1. Lab Manual
+2. Advanced Practical Physics, Worsnop and Flint
+BIO 101 Introductory Biology 2-1-0-3
+Objective: Nature gives us a glimpse of the most complicated engineering system ever
+designed. All engineers must be trained to appreciate the aspects of biology where concepts
+of various phenomena from different fields of engineering like mechanical, chemical,
+electrical engineering has played a role in understanding the underlying beauty of nature. It is
+also imperative to understand and address the question of where do we come from and where
+we are going. This is among the most crucial question which artificial intelligence thrives
+upon finds clues from concepts of evolution. The course encourages students to take
+inspiration from biology to address engineering problems.
+Content:
+ Need for biology
+ Biomimicry
+ Engineering solutions inspired from biology
+ Origin of Life on Earth
+ Evolution
+ Mutations
+ Kingdoms of life
+ Cell Structure, Cell Communication
+ Enzyme kinetics
+ Biomolecules of Life (Lipids, Carbohydrates, Proteins and Nucleic Acids)
+ Genetic Basis of Development (Central Dogma, Gene Expression), Genetics, Metabolism
+ Quantitative view of modern biology, and other allied topics.
+Suggested Textbook:
+1. Biology: A global approach, Neil A Campbell et al., 10th Edition, 2015, Pearson Education
+Ltd, England.
+ME 102 Engineering Graphics and Introduction to Computer-Aided-Drawing 1-0-3-2
+Objective: The course is aimed at familiarizing the first-year engineering students with the
+principles of descriptive geometry and visual communication techniques that are utilized by
+engineers across various disciplines.
+The initial part of the course focuses on the basics of traditional technical drawing methods
+and corresponding theory. This involves free-hand sketching, drafting with traditional
+drafting tools, and studying the projections of simple solids. The usage of the traditional
+hand-drafting techniques over the computer-based techniques is a deliberate choice for the
+first section where the focus is on developing the skill of visualization of the object in spatial
+coordinates from different locations. Having emphasized and practiced in the important
+basics of technical drawings and visual communication, computer-aided drafting will be
+introduced through 3D modelling software and their usage to create 2D drawings will be
+practiced subsequently.
+Contents:
+ Introduction : Introduction to the subject, history of visual communication, history and
+evolution of technical drawing, significance of engineering graphics, introduction to the
+tools/ techniques used and how to use them.
+ Theory of projections : Introduction to projection, classification of projection techniques, first
+and third angle projections, applications of various of projection methods and practices
+ Spatial geometry I : Projections of points, projection of lines, true lengths, inclinations,
+shortest distance between lines, skew lines, trace of a line
+ Spatial geometry II : Projections of simple planar shapes, traces of a planar shape, projection
+of simple solids, section of solids
+ Auxiliary projection : auxiliary projection technique and its application to lines, planes and
+solids
+ Intersections and development : Intersection of solids, development of surfaces
+ Orthographic projections : Multi view drawing from pictorial views of complex solids,
+missing lines and views, sectional views
+ Pictorial projections : Theory of isometric projection, isometric projections vs. drawing,
+construction of isometric drawing from orthographic views, oblique and perspective drawing
+techniques.
+ Introduction to CAD : Advent and evolution of CAD, introduction to the software GUI, basic
+commands and practices
+ 3D modelling : Creating 3D primitives, Introduction to various tools and commands
+ Creating and assembly : Assembly of 3D objects/ parts, constraints, animation
+ 2D drafting : Creating 2D drawings from the 3D models for production purposes,
+introduction to standards and codes involved
+Suggested Textbooks:
+1. Engineering drawing: Plane and Solid Geometry, 9/e - N.D. Bhatt, Charotar Publication,
+2006
+2. Engineering Drawing with AutoCAD – A.K. Sarkar, A.P. RASTOGI, & D.M. Kulkarni
+Reference Textbooks:
+1. French T. E., Vierck, C. J., Foster, R. J., Engineering Drawing and Graphic Design. Tata
+McGraw-Hill Edition, Fourteenth Edition, 2012
+2. Luzadder, W. J., Duff, J. M., Fundamentals of Engineering Drawing, Prentice-Hall India,
+New Delhi, Eleventh Edition, 1983.
+EE 101 Introduction to Electrical and Electronics Engineering 3-1-0-4
+Objective: This is the first course offered to the student in the area of Electrical and
+Electronics Engineering. The course aims to:
+ Familiarise the students with circuits in the electrical and electronics engineering domain.
+ Expose them to various analytical techniques and theorems to understand and analyse the
+circuits in hand.
+ Introduce some of the applications of these circuits in real-life.
+Prerequisites:
+ MTH 101 (Can be relaxed with instructor’s consent)
+Contents:
+ Basic Physical laws, Circuit elements, active element conventions, Kirchoff’s laws
+ Analysis of circuits by Node voltage Method and Mesh current method
+ Analysis of circuits using source transformation, Thevenin and Norton equivalent models
+ Notion of linearity, Superposition theorem, Maximum power transfer theorem, Milman’s
+Theorem
+ Transient analysis of electrical circuits, cylco-stationary analysis of RLC circuits
+ Notion of power in DC and AC circuits and concepts of real and reactive power in AC
+circuits, power factor, Polyphase circuits, star- delta conversion.
+ Introduction to S-domain analysis
+ Diode: basic structure and operating principle, current-voltage characteristic.
+ Diode Applications: rectifier circuits (half-wave and full-wave rectifiers), voltage regulator
+(using Zener diode), clipper (limiter) circuits, clamper circuits.
+ Operational Amplifier (Op Amp): Ideal Op Amp characteristics, inverting and non-inverting
+configurations.
+ Op Amp applications: amplifiers, oscillators, current-to-voltage converter, voltage-to-current
+converter, integrator and differentiator
+ Bipolar Junction Transistors (BJT): structure and modes of operation; n-p-n and p-n-p
+transistors in active mode.
+ BJT Applications: amplifier, switch
+ Metal Oxide Semiconductor Field-Effect Transistors: structure and physical operation of ntype and p-type MOSFET.
+ MOSFET Applications: amplifier, switch
+ Basic logic gates and flip-flop.
+ Basics of Data converters.
+Suggested Textbook:
+1. Giorgio Rizzoni, “Principles and applications of Electrical Engineering”, McGraw-Hill
+Higher Education, 2007.
+Suggested References:
+1. Vincent Del Toro, “Electrical Engineering Fundamental,” Prentice Hall, 1989.
+2. Sedra and Smith, “Microelectronic Circuits: Theory and Applications”,
+3. William H. Hayt Jr., J. E. Kemmerly and S. M. Durbin, Engineering Circuit Analysis,
+McGraw Hill Education, 2013
+4. Robert Boylestad, Louis Nashelsky, Electronic Devices And Circuit Theory,9th Edition,
+Pearson Education.
+NO 102 National Sports organization (P/NP)
+Objective: To instil the importance of a fit and healthy lifestyle. This course is a extension to
+NO 101.
+Contents:
+ All students get the opportunity to choose and signup for a sport and undergo training.
+ There will be training 5 days a week for 45 minutes each.
+Programme Core Curriculum
+Semester I
+Semester II
+MC100 Introduction to Profession 1-0-0-1
+Content:
+The spirit of the course is to provide a window into the future of the students who have opted
+for B.Tech in Mathematics and Computing. Every week, the class will be given a seminar, as
+a general talk by experts, who will be the faculty of the Department, as well as some invited
+speakers. Among topics and themes we will have lectures in Mathematics, Applications of
+Mathematics, Computing and Computer Science, Machine Learning, Data Science etc.
+Course
+code L-T-P-C Course Name
+MC100 1-0-0-1 Introduction to Profession
+Course
+code L-T-P-C Course Name
+CS102 2-0-2-3 Software Tools
+CS102 Software Tools 2-0-2-3
+Objective: The course familiarises the student with the standard tools on a GNU/Linux
+system and enables one to perform tasks like creating and managing sourcecodes, documents,
+webpages, slides, images etc.
+Prerequisite: None
+Contents:
+Basic GNU/Linux commands
+Shell scripting, awk, sed
+Web development tools, HTML, CSS, Javascript, PHP
+Basics of typography, typesetting using TeX, LaTeX, Beamer
+Raster and vector image editing, basics of color theory
+Suggested Textbooks:
+None
+Reference Texts:
+1. The Unix Programming Environment, B. Kernighan, R. Pike, 2015
+2. The Not So Short Introduction to LATEX2e 
